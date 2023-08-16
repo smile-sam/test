@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="161aa201-aa78-4e4d-8282-55821c1ed8e3" name="Changes" comment="commit one" />
+    <list default="true" id="161aa201-aa78-4e4d-8282-55821c1ed8e3" name="Changes" comment="demo 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/demo1.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
@@ -22,12 +30,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1692199980" />
+                    <option name="branchName" value="feature/1.0.0" />
+                    <option name="lastUsedInstant" value="1692200232" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1692199979" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1692200137" />
                   </RecentBranch>
                 </list>
               </option>
@@ -84,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692199427509</updated>
-      <workItem from="1692199433372" duration="589000" />
+      <workItem from="1692199433372" duration="846000" />
     </task>
     <task id="LOCAL-00001" summary="commit one">
       <created>1692199488639</created>
@@ -93,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1692199488639</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="demo 1">
+      <created>1692200033996</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692200033996</updated>
+    </task>
+    <task id="LOCAL-00003" summary="demo 1">
+      <created>1692200121052</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692200121052</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +163,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="commit one" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit one" />
+    <MESSAGE value="demo 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo 1" />
   </component>
 </project>
